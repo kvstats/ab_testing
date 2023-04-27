@@ -19,3 +19,6 @@ Thus, the task at hand is to conduct an analysis to answer the following questio
 > Does the new design perform differently than the old design? If so, does it perform better or worse?
 
 To do this, we suggest running an A/B test on a random subset of the users to examine both a two-tailed and a one-tailed hypothesis test.
+
+## Rendered Notebook
+View the rendered notebook on [nbviewer](https://nbviewer.org/github/kvstats/ab_testing/blob/main/code/ab_test.ipynb).
